@@ -5,5 +5,4 @@
 
 The API provider: http://www.OpenWeatherMap.org
 
-## Live demo
-Weather App()
+
